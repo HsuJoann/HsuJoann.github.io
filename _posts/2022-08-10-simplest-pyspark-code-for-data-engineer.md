@@ -1,3 +1,7 @@
+---
+tags: pySpark
+---
+
 ## Simplest PySpark Code for Data Engineer
 
 After my first few lines ready. I need to test more and get myself more familiar with the syntext.
