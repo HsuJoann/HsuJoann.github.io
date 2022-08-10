@@ -1,9 +1,9 @@
 ---
-tags: Career Dev
+tags: Career
 ---
 
 
-##A very good article about Career Transition
+## A very good article about Career Transition
 
 
 I came across this series of 5 articles, titled 5 Steps To Transitions Your Career to Analytics,  written by Piyanka Jain, published in early 2015 on Forbes.com. I like them so much that I recommend it to everyone intending to have a career transition.
