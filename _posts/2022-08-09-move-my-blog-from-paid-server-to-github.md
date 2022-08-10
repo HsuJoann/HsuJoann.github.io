@@ -17,4 +17,4 @@ Since my blog only viewed by a few people, it does not make any sense to keep it
  ```
 
 
-(In case someone is wondering about a best coder way, like export/import. I did not do that. I have about 30 or so posts in my old blog. so, I manually copy/paste everthing. The most none high tech way 👎 )
+(In case someone is wondering about a best coder way, like export/import. I did not do that. I have about 30 or so posts in my old blog. so, I manually copy/paste everthing. The most none high tech way 😊.  )
