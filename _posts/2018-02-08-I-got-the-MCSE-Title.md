@@ -1,7 +1,7 @@
 ---
 tags: YEAH!
 ---
-##I got the MCSE title!
+## I got the MCSE title!
 
 Although this post title shouts out with pride about my newest achievement–Microsoft Certified Solution Expert in Data Management and Analytics, what I really want to tell you is: Microsoft has lowered the bar of MCSA and MCSE significantly and now is the best time to get an MCSA or MCSE certificate.
 
