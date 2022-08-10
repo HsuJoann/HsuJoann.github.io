@@ -1,5 +1,5 @@
 ---
-tags: Career Dev
+tags: Career
 ---
 
 ## Bridges between Excel and SQL
