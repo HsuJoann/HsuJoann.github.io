@@ -2,7 +2,7 @@
 tags: Career Dev
 ---
 
-##Bridges between Excel and SQL
+## Bridges between Excel and SQL
 
 I have a good friend who loves using excel. I want to encourage her to learn some SQL and database queries. In this post, I will share the most important bridge from my known/familiar territory to my new territory. My “secret” bridge is GOOGLE. With the correct google search term set (utilizing one’s known knowledge), google will give answers that applicable to the unfamiliar knowledge. Little by little, and piece by piece, the knowledge of unfamiliar field become familiar and known. Today, the known territory is “Excel”. The new territory is “SQL”.
 
