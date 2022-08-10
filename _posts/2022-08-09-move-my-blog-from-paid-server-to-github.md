@@ -15,3 +15,6 @@ Since my blog only viewed by a few people, it does not make any sense to keep it
  
  --Gitbub
  ```
+
+
+(In case someone is wondering about a best coder way, like export/import. I did not do that. I have about 30 or so post in my old blog. so, I manually copy/paste everthing. The most none high tech way 👎 )
