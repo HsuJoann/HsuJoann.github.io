@@ -1,5 +1,5 @@
 ---
-tags: YEAH!--my little wins
+tags: YEAH!
 ---
 
 ## Move My Old Blog from Paid WordPress to GitHub
