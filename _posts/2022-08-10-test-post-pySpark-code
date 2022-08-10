@@ -1,4 +1,7 @@
-## This is a test post about PySpark code
+## test post pySpark code
+
+After my first few lines ready. I need to test more and get myself more familiar with the syntext.
+the post did not work at the first time. As second attempt, I change title to truely match post name and added these several sentenses between python code and title.
 
 ```python
 from pyspark import SparkConf, SparkContext
