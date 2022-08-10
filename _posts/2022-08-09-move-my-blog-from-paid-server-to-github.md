@@ -1,3 +1,7 @@
+---
+tags: YEAH!
+---
+
 ## Move My Old Blog from Paid WordPress to GitHub
 
 I follow this fabulous blog by Chad Baldwin   (https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html). I am very proud of this fellow TSQLer.
