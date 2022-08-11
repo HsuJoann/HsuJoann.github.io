@@ -9,6 +9,7 @@ What is the two most important words that one should look for in SQL Server Exec
 
 SCAN a big table is a disaster. The rescue is: try your best to let SQL  Server SEEK a big table.
 
+![Fun Picture](/docs/assets/seek_destroy_clip.gif)
 (William Wolf taught me this many many years ago at a SQL Saturday meeting. This knowledge is so powerful and it makes one of my query work so good that I want to share with you.)
 
 
