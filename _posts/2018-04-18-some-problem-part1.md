@@ -7,7 +7,7 @@ I have twelve queries. Each of the query select 20 random account numbers that f
 
 Of course, I want to change it. I think it should not be too difficult.
 
-![Book logo](/least-github-pages/assets/blogpost2018-04-21-768x356.jpg)
+![Fun Picture](/HsuJoann.github.io/docs/assets/blogpost2018-04-21-768x356.jpg)
 
 First Attempt: UNION ALL
 
