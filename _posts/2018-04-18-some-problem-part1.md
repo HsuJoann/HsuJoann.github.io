@@ -7,6 +7,8 @@ I have twelve queries. Each of the query select 20 random account numbers that f
 
 Of course, I want to change it. I think it should not be too difficult.
 
+![Book logo](/least-github-pages/assets/logo.png)
+
 First Attempt: UNION ALL
 
 I think each query, instead of one column, I select two columns, one with my desired result, another is a number to indicate which set the account belongs to. I will Union them all, to get one result set like this:
