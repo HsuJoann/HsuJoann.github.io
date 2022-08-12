@@ -25,13 +25,22 @@ Answer1:          above mentioned article of Chad Baldwin.
 
 Q2: How to add tags (so that the Blog Archive could have several categories? 
 
-Answer2:          above mentioned article of Chad Baldwin, in the comment section. briefly speaking: add 
+Answer2:          above mentioned article of Chad Baldwin, in the comment section. briefly speaking: add the following to the beginning of the post
+
 '''
+
 ---
-tags:  Tag_name
+
+tags: Tag_name
+
 ---
+
 '''
-to the beginning of the post
+
+
+
+
+
 
 Q3: how to add pictures 
 
