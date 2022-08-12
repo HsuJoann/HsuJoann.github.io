@@ -18,19 +18,12 @@ https://www.youtube.com/watch?v=7GAglU08-3s
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=7GAglU08-3s" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/7GAglU08-3s" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
 
-This is **bold** and this is _italic_.
 
-This is ***bold and italic***.
-
-
-This is **bold** and this is _italic_.
-
-This is ***bold and italic***.
-
+if you like to watch it in a new tab, click link below:
 [https://www.youtube.com/watch?v=7GAglU08-3s](https://www.youtube.com/watch?v=7GAglU08-3s){:target="_blank"}
 
