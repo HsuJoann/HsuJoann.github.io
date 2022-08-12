@@ -27,7 +27,7 @@ Q2: How to add tags (so that the Blog Archive could have several categories?
 
 Answer2:          above mentioned article of Chad Baldwin, in the comment section. briefly speaking: add the following to the beginning of the post
 
-'''
+'''tsql
 
 ---
 
