@@ -50,6 +50,8 @@ Q4: how to add links to down load files
 
 Answer4: https://stackoverflow.com/questions/18062553/how-can-i-add-a-downloadable-file-to-my-github-io-page
 
+this is what I did in this page https://hsujoann.github.io/2019/07/17/charlotte-sql-server-user-group-meeting-archive.html
+
 Q5: how to add pages
 
 Answer5: have not tried yet. looks like in the comment session of above page
