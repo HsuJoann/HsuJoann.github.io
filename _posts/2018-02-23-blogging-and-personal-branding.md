@@ -1,7 +1,6 @@
 ---
-Tags: Career 
+tags: Career
 ---
-
 ## Blogging and Personal Branding
 
 (The content was written in 2018. Now, I am using Github Pages as the platform. The details about setting up a github blog is here: https://hsujoann.github.io/2022/08/09/move-my-blog-from-paid-server-to-github.html)
