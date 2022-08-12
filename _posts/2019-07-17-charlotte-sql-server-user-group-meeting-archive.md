@@ -16,6 +16,9 @@ https://charlotte-sql.org/2019/07/09/july-17th-2019/
 <a href="/docs/assets/When%20Python%20Meets%20SQL.pptx">Download File PowerPoint Presentation</a>
 
 <a href="/docs/assets/SQL_connection_1.ipynb">Download Jupitor Notebook File SQL_connection_1.ipynb</a>
+
 <a href="/docs/assets/SQL_connection_query_1.ipynb">Download Jupitor Notebook File SQL_connection_query_1.ipynb</a>
+
 <a href="/docs/assets/SQL_full_final_real.ipynb">Download Jupitor Notebook File SQL_full_final_real.ipynb</a>
+
 <a href="/docs/assets/SQL_connection_query_2.ipynb">Download Jupitor Notebook File SQL_connection_query_2.ipynb</a>
