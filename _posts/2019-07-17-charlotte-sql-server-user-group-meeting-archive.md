@@ -8,6 +8,6 @@ On July 19, 2019, I gave a presentation call "When SQL meets Python". It was a g
 
 https://charlotte-sql.org/2019/07/09/july-17th-2019/
 
-![Archive Picture](/docs/assets/sql_meeting_1.png)
-![Archive Picture](/docs/assets/sql_meeting_2.png)
+![Archive Picture](/docs/assets/sql_meeting_1.PNG)
+![Archive Picture](/docs/assets/sql_meeting_2.PNG)
 
