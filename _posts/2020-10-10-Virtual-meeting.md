@@ -7,7 +7,7 @@ tags: Presentations
 
 I gave this talk on a PASS Application Development Virtual Group on 2021-10-10 evening. Giving a online presentation is much tougher than giving a in-person presentation because you don't have 
 immediate audience feedback. I clearly recall that when I gave in-person presentation, my audience laughed after my openning joke. The laughter relaxed the audience and excited me.
-I continued my talk with focus and passion. Online presentation lack on this. But, nevertheless, here is my presentation:
+I continued my talk with focus and passion. Online presentation lack on this. But, on line presentation leave record and the interested audience could go back as many times as they need to. This is an advantage that in-person presentation don't have. 
 
 
 My presentation starts at 9 minutes 30 seconds (before that is the meeting organizer went over group house keeping items)
