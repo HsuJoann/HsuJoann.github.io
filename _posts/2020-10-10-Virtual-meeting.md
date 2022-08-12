@@ -2,7 +2,7 @@
 tags: Presentation
 ---
 
-## Archive for Virtual PASS Group
+## Archive for Virtual PASS Group Meeting
 
 
 I gave this talk on a PASS Application Development Virtual Group on 2021-10-10 evening. Giving a online presentation is much tougher than giving a in-person presentation because you don't have 
@@ -14,10 +14,12 @@ My presentation starts at 9 minutes 30 seconds (before that is the meeting organ
 
 The knowledge part of my presentation starts at 14 minutes 10 second  (the first 5 minutes of my talk is my self introduction and boring jokes)
 
-
+https://www.youtube.com/watch?v=7GAglU08-3s
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/7GAglU08-3s" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/watch?v=7GAglU08-3s" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+
