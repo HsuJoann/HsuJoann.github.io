@@ -11,3 +11,5 @@ https://charlotte-sql.org/2019/07/09/july-17th-2019/
 ![Archive Picture](/docs/assets/sql_meeting_1.PNG)
 ![Archive Picture](/docs/assets/sql_meeting_2.PNG)
 
+<a href="/docs/assets/When_Python_Meets_SQL.pptx">Download File</a>
+
