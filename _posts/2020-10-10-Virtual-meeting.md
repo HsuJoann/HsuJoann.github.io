@@ -27,3 +27,4 @@ https://www.youtube.com/watch?v=7GAglU08-3s
 if you like to watch it in a new tab, click link below:
 [https://www.youtube.com/watch?v=7GAglU08-3s](https://www.youtube.com/watch?v=7GAglU08-3s){:target="_blank"}
 
+If you havn't, search "PASS TV" on youtube. The newest PASS meeting will be held in Seattle Nov. 2022. I hope that I can go. 
