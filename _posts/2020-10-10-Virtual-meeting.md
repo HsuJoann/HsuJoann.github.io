@@ -23,3 +23,14 @@ https://www.youtube.com/watch?v=7GAglU08-3s
 <!-- blank line -->
 
 
+This is **bold** and this is _italic_.
+
+This is ***bold and italic***.
+
+
+This is **bold** and this is _italic_.
+
+This is ***bold and italic***.
+
+[https://www.youtube.com/watch?v=7GAglU08-3s](https://www.youtube.com/watch?v=7GAglU08-3s){:target="_blank"}
+
