@@ -26,9 +26,11 @@ Answer1:          above mentioned article of Chad Baldwin.
 Q2: How to add tags (so that the Blog Archive could have several categories? 
 
 Answer2:          above mentioned article of Chad Baldwin, in the comment section. briefly speaking: add 
+'''
 ---
 tags:  Tag_name
 ---
+'''
 to the beginning of the post
 
 Q3: how to add pictures 
@@ -42,4 +44,8 @@ Answer4: https://stackoverflow.com/questions/18062553/how-can-i-add-a-downloadab
 Q5: how to add pages
 
 Answer5: have not tried yet. looks like in the comment session of above page
+
+
+Q6 & Answer6: for tons of other things. here is the link I found:
+https://about.gitlab.com/handbook/markdown-guide/
 
