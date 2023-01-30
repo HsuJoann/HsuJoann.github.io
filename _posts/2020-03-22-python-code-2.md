@@ -58,7 +58,7 @@ For the presentation that I am preparing, I will focus on how to loop and how to
 
 This paragraph and next code was added on second day after I figure out a way to finally insert data without using executemany. With one more layer of loop, the values will be generated and inserted row by row. This code only apply to situations that all columns are varchar. if other datatype exists, it might throw an error.
 
-'''python
+```python
 #import
 
 import pyodbc
