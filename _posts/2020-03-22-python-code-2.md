@@ -50,7 +50,7 @@ for i in [0,1,2]:
     connStr.commit()
     cursor.close()
     connStr.close()
- '''   
+```  
 
 I should admit that this time, executemany refused work for me again. I even changed the data type of the source table and make all column varchar. It still did not work. I will study pyodbc executemany and pandas executemany in greater details later to make both works. I will then update on this topic later. On the other hand, I need to think about how to make the code work for row by row insertion. I don’t have a good method yet to produce dynamic parameter list. This is the beautiful thing of learning and sharing–it never ends
 
@@ -93,4 +93,4 @@ for i in [0,1,2]:
         print(insert_command)                                   
         cursor.execute(insert_command)
         connStr.commit()
-'''
+```
