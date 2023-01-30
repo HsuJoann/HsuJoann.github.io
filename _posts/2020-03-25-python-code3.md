@@ -37,6 +37,35 @@ df.to_sql('ETLtest20200321', con = sqlcon, schema ='schema_test', if_exists = 'r
 
 Yes. Simple as That.
 
-But, there is a shortcoming for this method: slow. It takes about 100 minutes when I wrote 1 million rows. The slowness is because of row-by-row operation between python and SQL server. I have tried many times to get it done faster (many people have tried many times too). So far, I can only fast load with string datatype. All other types will not work. I am still trying. Of course I will share my progress here after I have a break through.
+But, there is a shortcoming for this method: slow. It takes about 100 minutes when I wrote 1 million rows. The slowness is because of row-by-row operation between python and SQL server. I have tried many times to get it done faster (many people have tried many times too). So far, I can only fast load with string datatype. In short, it is done this way: First convert the dataframe to a list of tuples. Then, use ODBC connection and execute many to fast load.
+
+```python
+
+
+list_of_tuples=list(df.itertuples(index=False, name=None))
+
+SQL_insert_command = """INSERT INTO [schema_name].[table_name](	[Column1]       ,
+	[Column2]   ,
+	[Column3]    ,
+	[Column4],
+	[Column5]   ,
+	[Column6],
+	[Column7] )
+                               values (?,?,?,
+                                       ?,?,?,?)"""
+
+
+connStr = pyodbc.connect(r'Driver={SQL Server};Server=myservername;Database=mydatabasename;Trusted_Connection=yes;')
+
+
+cursor = connStr.cursor()
+
+cursor.fast_executemany = True
+cursor.executemany(SQL_insert_command, list_of_tuples )
+
+connStr.commit()
+cursor.close()
+```
+I am still trying for broader datatypes. Of course I will share my progress here after I have a break through.
 
 You can see from this code that a new package, pandas is used here. In pandas, a table is called dataframe. All of our knowledge about sql server tables can be applied to dataframe, just with different code.
