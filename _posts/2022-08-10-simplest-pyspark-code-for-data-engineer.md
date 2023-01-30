@@ -4,7 +4,7 @@ tags: pySpark
 
 ## Simplest PySpark Code for Data Engineer
 
-After my first few lines ready. I need to test more and get myself more familiar with the syntext.
+A data Engineer is a person who moved huge amount of data between various data sources. The the volumn of data gets bigger, use our computer is not good enough and can not be scheduled. This blog post is to show you how to use a hadoop cluster as a resource for transfering data between two sql servers. The tool is PySpark.
 
 ```python
 from pyspark import SparkConf, SparkContext
@@ -29,7 +29,7 @@ password0 = "password"
 
 
 
-# read table data into a spark dataframe
+# read table data from source database into a spark dataframe
 jdbcDF = spark.read.format("jdbc") \
     .option("url", f"jdbc:sqlserver://Server_nme_Port;databaseName={database0};") \
     .option("dbtable", table0) \
@@ -41,7 +41,7 @@ jdbcDF = spark.read.format("jdbc") \
 
 
 
-#write dataframe into analytics_DW
+#write dataframe into Target_base
 database = "Target_DB"
 table = "Targe_table_name"
 user = "User_id_Target"
@@ -63,4 +63,4 @@ print('DONE')
 
 ```
 
-Hope it works.
+Hope this code works well for you.
