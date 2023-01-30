@@ -9,6 +9,7 @@ At the beginning of my Python ETL journey, I created tables in SQL server and in
 My best friend google told me: yes. And here is how:
 
 ```python
+
 #imports
 import pandas as pd
 from sqlalchemy import create_engine
@@ -21,15 +22,18 @@ df
 
 
 #make connection to SQL server and write the dataframe content to a table 
-server = 'LAPTOP-S1V0PRKL'
-database = 'pythontest'
-sqlcon = create_engine('mssql+pyodbc://myservername/pythontest?trusted_connection=yes&driver=ODBC+Driver+17+for+SQL+Server')
+myservername = 'LAPTOP-S1V0PRKL'
+mydatabasename = 'pythontest'
+
+sqlcon = create_engine('mssql+pyodbc://@' + myservername + '/' + mydatabasename + '?trusted_connection=yes&driver=ODBC+Driver+13+for+SQL+Server')
+
 df.to_sql('ETLtest20200321', con = sqlcon, schema ='schema_test', if_exists = 'replace', index = False)
-#note on my personal computer ODBC driver is 17, but my company is 13 
+
+#note on my personal computer ODBC driver is 17, but my company computer is 13 
 #because my personal computer has SQL Server 2019 but company is SQL Server 2016
 #check your computer ODBC version and put it in the create_engine string
 
-'''
+```
 
 Yes. Simple as That.
 
