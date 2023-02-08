@@ -2,7 +2,7 @@
 tags: Data Engineer and Architecture
 ---
 
-## Nest Online Resources for becoming a Data Engineer and Architecture
+## Best Online Resources for becoming a Data Engineer and Architecture
 
 The differences between Data Engineers, Data Scientists and Data Analysts are not very clear. The requirement and job description for these three catagories are
 overlapping too. So is the online training resources. I once saw an Udemy Course with title like "Python for Data Engineer". But the content of that course is
