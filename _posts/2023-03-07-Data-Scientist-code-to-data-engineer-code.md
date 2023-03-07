@@ -10,10 +10,14 @@ data engnieer use pyspark for large scale distribution computing.
 This blog shares my experience and code to make the bridge.
 
 First, get data ready in PySpark DataFrame. 
-Second, turn this into a special Dataframe for distribution. Each row is used to call Data Science Model related function. Each cell is a list
-Three, Define the function: inside function,  tech prep, then turn the list into a panda' dataframe. Finally, get and use the code from  data scientist
-Fourth step is to call the function 
-Last, the the return list to a PySpark Datafrom
+
+Second, turn this into a special Dataframe for distribution. Each row is used to call Data Science Model related function. Each cell is a list.
+
+Thirde, Define the function: inside function,  tech prep, then turn the list into a panda' dataframe. after that, get and use the code from  data scientist. The returned value from models are a list.
+
+Fourth step is to call the function .
+
+Last, the the return list to a PySpark Dataframe that can be write out to any place you desire.
 
 
 ```python
@@ -96,14 +100,29 @@ def DataScienceModelExtraction(x):
     # Call Python model
     result = main.function_name(account_id[0], df)
     return result
-#step 4
+    
+#step 4  distributed computing
 rdd = df_group.rdd.map(lambda x: DataScienceModelExtraction(x)).filter(bool)
-#step 5
+
+#step 5  organize things for final out put
 map_rdd = rdd.map(
     lambda i: Row(account_id=int(i[0]), result_column1=str(i[1]), result_column2=str(i[2]), result_column3=float(i[3]),
-                  slope_summer=float(i[4]), result_column4=int(i[5])))
+                  result_column4=int(i[5])))
 
+if not map_rdd.isEmpty():
+    final1_df = map_rdd.toDF()
 
+    final0_df = final1_df.withColumn('insert_dt', func.current_timestamp())
+
+    # Store Result in SQL Server
+    heattype_df.write.format("jdbc").option("truncate", "true").mode("overwrite"). \
+        option("url", analytic_dw_url). \
+        option("dbtable", 'destination_table_name'). \
+        option("driver", msSqlServerdriver). \
+        save()
+
+else:
+    print('map_rdd is empty, nothing to write. Truncating table.')
 
 
 
