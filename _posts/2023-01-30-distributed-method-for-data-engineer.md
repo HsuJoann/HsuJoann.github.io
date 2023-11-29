@@ -8,7 +8,7 @@ When it comes to work with big data platform, how to use this advance engine eff
 be  run for about 30 hours in one of our data scientist's computer. but it is not a good way because if the computer lose power all the previous hours will go to 
 waste. So, we planned to do it on the Hadoop Cluster. Now, the question becomes: how to distribute all the process effectively. 
 If we don't distribute it effectively, the shovelling data inside cluster will make the job worse. 
-
+(the following code need to be updated, it is just a place holder)
 
 ```python
 from pyspark import SparkConf, SparkContext
@@ -20,7 +20,7 @@ conf.set('spark.driver.memory', '10g')
 conf.set('spark.executor.memory', '10g')
 conf.set("spark.sql.broadcastTimeout",  1200)
 conf.set("spark.sql.execution.arrow.enabled", "true")
-conf.set('spark.yarn.queue', 'hero')
+conf.set('spark.yarn.queue', 'job_name_you_like')
 spark = SparkSession.builder.config(conf=conf).enableHiveSupport().getOrCreate()
 spark.sparkContext.setLogLevel('ERROR')
 sc = spark.sparkContext
