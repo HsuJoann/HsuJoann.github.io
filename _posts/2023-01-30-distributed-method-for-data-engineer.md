@@ -9,7 +9,7 @@ be  run for about 30 hours in one of our data scientist's computer. but it is no
 waste. So, we planned to do it on the Hadoop Cluster. Now, the question becomes: how to distribute all the process effectively. 
 If we don't distribute it effectively, the shovelling data inside cluster will make the job worse. 
 (the following code need to be updated, it is just a place holder)
-
+ 
 ```python
 from pyspark import SparkConf, SparkContext
 from pyspark.sql import SparkSession
