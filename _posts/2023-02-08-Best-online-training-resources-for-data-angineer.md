@@ -1,5 +1,5 @@
 ---
-tags: "Data Engineer and Architecture"
+tags: Data-Engineer-and-Architecture
 ---
 
 ## Best Online Resources for becoming a Data Engineer and Architecture
