@@ -1,8 +1,8 @@
 ---
-tags: Data-Engineer-and-Architecture Python
+tags: Data-Engineer-and-Architecture Tsql
 ---
 
-## How to connect to SAP HANA with hdbcli and windows authentication  (or windows credential)
+## Several SQL function that saved me a lot of time
 
 When I search online with "python how to connect to SAP HANA", I got to know a super good package hdbcli   (Hana DataBase CLIent, to help memorize its name). It is very easy to use.
 However, where I googled how to connect with windows authentication, there is nothing useful. So, I tried several ways and did not work. Finally, I borrowed the pyodbc for SQL server windows authentication " Trusted_Connection='yes'". It worked.
