@@ -1,13 +1,14 @@
 ---
-tags: Data-Engineer-and-Architecture Tsql
+tags: Tsql
 ---
 
 ## Several SQL function that saved me a lot of time
 
-When I search online with "python how to connect to SAP HANA", I got to know a super good package hdbcli   (Hana DataBase CLIent, to help memorize its name). It is very easy to use.
-However, where I googled how to connect with windows authentication, there is nothing useful. So, I tried several ways and did not work. Finally, I borrowed the pyodbc for SQL server windows authentication " Trusted_Connection='yes'". It worked.
+Even though I have shared a lot of cool stuff in Python and PySpark, SQL remains the heart of my data manipulation. 
+Yesterday, I used two SQL functions  TRANSLATE  (more details   https://learn.microsoft.com/en-us/sql/t-sql/functions/translate-transact-sql?view=sql-server-ver16    ) and REVERSE (more details    https://learn.microsoft.com/en-us/sql/t-sql/functions/reverse-transact-sql?view=sql-server-ver16         ). 
 
-Example code are attached. This code query data from an SAP HANA database and load the result into a SQL server table.
+These two functions saved me a lot of time to encrypte account_id because the old code used looping and forfeited the strength of SQL. I searched and found that these two functions are not unique to Tsql, PostgreSQL also has these two convinient functions.
+
 
 ```python
 
