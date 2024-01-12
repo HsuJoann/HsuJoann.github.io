@@ -1,5 +1,5 @@
 ---
-tags: Data-Engineer-and-Architecture python
+tags: Data-Engineer-and-Architecture Python
 ---
 
 ## How to connect to SAP HANA with hdbcli and windows authentication  (or windows credential)
