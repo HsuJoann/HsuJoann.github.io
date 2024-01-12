@@ -5,9 +5,11 @@ tags: Tsql
 ## Several SQL function that saved me a lot of time
 
 Even though I have shared a lot of cool stuff in Python and PySpark, SQL remains the heart of my data manipulation. 
-Yesterday, I used two SQL functions  TRANSLATE  (more details   https://learn.microsoft.com/en-us/sql/t-sql/functions/translate-transact-sql?view=sql-server-ver16    ) and REVERSE (more details    https://learn.microsoft.com/en-us/sql/t-sql/functions/reverse-transact-sql?view=sql-server-ver16         ). 
+Yesterday, I used two SQL functions  TRANSLATE  (more details   https://learn.microsoft.com/en-us/sql/t-sql/functions/translate-transact-sql?view=sql-server-ver16    ) and REVERSE (more details    https://learn.microsoft.com/en-us/sql/t-sql/functions/reverse-transact-sql?view=sql-server-ver16         ). These two functions saved me a lot of time to encrypte account_id because the old code used looping and forfeited the strength of SQL. I searched and found that these two functions are not unique to Tsql, PostgreSQL also has these two convinient functions.
 
-These two functions saved me a lot of time to encrypte account_id because the old code used looping and forfeited the strength of SQL. I searched and found that these two functions are not unique to Tsql, PostgreSQL also has these two convinient functions.
+
+The experience of yesterday make me finally writing two new Tsql functions that I had wanted to write about for a long time. 
+https://stackoverflow.com/questions/194852/how-to-concatenate-text-from-multiple-rows-into-a-single-text-string-in-sql-serv   has almost all that I want to discuss. Before SQL Server 2017, the only way to use is lengthy code 
 
 
 ```python
