@@ -39,27 +39,27 @@ Another Example:
 # Second. Applying Prompt Engineering Principles
 
 content are from this page:
-(https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+<https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview>
 
 
 
-Prompt generator (https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-generator)
+Prompt generator <https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-generator>
 
-Be clear and direct (https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/be-clear-and-direct)
+Be clear and direct <https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/be-clear-and-direct>
 
-Use examples (multishot) (https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/multishot-prompting)
+Use examples (multishot) <https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/multishot-prompting>
 
-Let Claude think (chain of thought) (https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought)
+Let Claude think (chain of thought) <https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought>
 
-Use XML tags (https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags)
+Use XML tags <https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags>
 
-Give Claude a role (system prompts) (https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/system-prompts)
+Give Claude a role (system prompts) <https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/system-prompts>
 
-Prefill Claude’s response (https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prefill-claudes-response)
+Prefill Claude’s response <https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prefill-claudes-response>
 
-Chain complex prompts (https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-prompts)
+Chain complex prompts <https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-prompts>
 
-Long context tips (https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)
+Long context tips <https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips>
 
         
 
@@ -67,7 +67,7 @@ Long context tips (https://docs.anthropic.com/en/docs/build-with-claude/prompt-e
 
  example: 
  
-https://github.com/anthropics/anthropic-cookbook/blob/main/skills/classification/guide.ipynb
+<https://github.com/anthropics/anthropic-cookbook/blob/main/skills/classification/guide.ipynb>
 
 
     prompt = textwrap.dedent("""
