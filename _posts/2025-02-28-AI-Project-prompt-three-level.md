@@ -39,7 +39,7 @@ Another Example:
 # Second. Applying Prompt Engineering Principles
 
 content are from this page:
-https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+(https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
 
 
