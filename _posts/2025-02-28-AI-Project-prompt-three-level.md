@@ -2,10 +2,11 @@
 tags: AI
 ---
 
-Prompt three levels
+There are three levels in authoring propts:
 
-A.  Direct, simple instructions 
-For Example       
+# First.  Direct, simple instructions 
+For Example    
+
     data = {
         'prompt': """You are a cartoon artist. Please substitute the girl and cat in the cartoon image with the girl and cat from their respective images, following these requirements:
                     1. Artfully substitute, freely adjust the size and position of the girl and cat.
@@ -35,7 +36,7 @@ Another Example:
 
 
 
-B. Prompt Engineering
+# Second. Applying Prompt Engineering Principles
 
 https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
         Prompt generator
@@ -48,8 +49,8 @@ https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
         Chain complex prompts
         Long context tips
 
-C. Programtically
-
+# Third. The content of the prompt could change in each situation programtically
+ example: 
 https://github.com/anthropics/anthropic-cookbook/blob/main/skills/classification/guide.ipynb
 
 
