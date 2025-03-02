@@ -1,4 +1,8 @@
-## Conversation Log
+---
+tags: AI
+---
+
+As as another example, copilot generated this coversation that is not a true picture but, good enough to share
 
 **Date:** 2025-03-02
 
