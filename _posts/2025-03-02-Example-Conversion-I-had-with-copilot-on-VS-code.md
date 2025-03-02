@@ -1,3 +1,7 @@
+---
+tags: AI
+---
+
 I have to say that CoPilot is not good at keeping the history. I have tried so hard to actually show my conversation. Each time, I have failed. 
 
 This is what I said:
