@@ -1,3 +1,24 @@
+I have to say that CoPilot is not good at keeping the history. I have tried so hard to actually show my conversation. Each time, I have failed. 
+
+This is what I said:
+copilot: I find that our conversation is very good. I want to share it with my friend and encouage them to use copilot. Please write me a detailed markdown file for all conversation here.
+
+I hope to get one true, not modefied conversation history. No, Copilot tried to summarize and catagorize our conversation. 
+
+In the sense, I like what POE.com did. The conversation there could be so easily shared. 
+
+[one of my example conversion on POE](https://poe.com/s/hTQBhvjvu3usb5yvzbMK)
+
+
+
+
+
+
+
+
+
+
+
 # Example Copilot Chat Session: Building a Chat History System
 
 ## Session Overview
