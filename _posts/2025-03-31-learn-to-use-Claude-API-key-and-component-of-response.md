@@ -2,9 +2,10 @@
 tags: AI
 ---
 
-# This is the what in my termal after I run
+Let's first see the component of the response
+## This is the what in my termal after I run
 
-PS C:\Users\jingh\python_code_folder\classfication_code\anthropic-cookbook\skills\contextual-embeddings> & C:/Users/jingh/AppData/Local/Microsoft/WindowsApps/python3.13.exe c:/Users/jingh/python_code_folder/classfication_code/anthropic-cookbook/skills/contextual-embeddings/learnUseApiKey.py
+
 
 Sending request to Claude API...
 
@@ -98,7 +99,6 @@ If Python is not added to your PATH, you can follow these steps to add it:
   3. Save the file and restart your terminal for the changes to take effect.
 
 After adding Python to your PATH, you can open a new command prompt or terminal and try running the `python --version` command again to verify that Python is now recognized. 
-PS C:\Users\jingh\python_code_folder\classfication_code\anthropic-cookbook\skills\contePS C:\Users\jingh\python_code_folder\classfication_code\anthropic-cookbook\skills\contextual-embeddings>
 
 
 
@@ -106,7 +106,7 @@ PS C:\Users\jingh\python_code_folder\classfication_code\anthropic-cookbook\skill
 
 
 
-### this is the code I have
+## this is the code I have
 
 ```
 
