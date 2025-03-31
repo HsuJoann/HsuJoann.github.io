@@ -50,6 +50,7 @@ Sending request to Claude API...
 }
 
 --- ACTUAL RESPONSE CONTENT ---
+
 To check if Python is added to your PATH, you can follow these steps:
 
 1. Open a command prompt or terminal:
