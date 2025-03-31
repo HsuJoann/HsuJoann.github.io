@@ -2,7 +2,7 @@
 tags: AI
 ---
 
-## This is the what in my termal after I run
+### This is the what in my termal after I run
 
 PS C:\Users\jingh\python_code_folder\classfication_code\anthropic-cookbook\skills\contextual-embeddings> & C:/Users/jingh/AppData/Local/Microsoft/WindowsApps/python3.13.exe c:/Users/jingh/python_code_folder/classfication_code/anthropic-cookbook/skills/contextual-embeddings/learnUseApiKey.py
 Sending request to Claude API...
@@ -104,7 +104,7 @@ PS C:\Users\jingh\python_code_folder\classfication_code\anthropic-cookbook\skill
 
 
 
-## this is the code I have
+### this is the code I have
 
 ```
 
