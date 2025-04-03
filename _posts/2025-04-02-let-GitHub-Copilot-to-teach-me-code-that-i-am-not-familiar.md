@@ -13,9 +13,13 @@ This is one example conversation I had with GitHub Copilot on one of the Anthrop
 
 (https://github.com/copilot/share/02300086-43e0-8872-8040-0a0a40a22912)
 
+
+
+
 ## the code uses VOYAGE_API_KEY to do RAG I want to learn more about the details. 
 ## What is the input of the VOYAGE service? what is the output? 
 ## use this code as an example to teach me how to use VOYAGE service in details
+
 
 
 
@@ -157,11 +161,10 @@ This provides a complete workflow to use the Voyage service for classification t
 
 
 
-```
-did this code provide any clue about how to get the vector_db.pkl file?
+
+## did this code provide any clue about how to get the vector_db.pkl file?
 
 
-```
 
 
 
