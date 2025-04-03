@@ -16,9 +16,7 @@ This is one example conversation I had with GitHub Copilot on one of the Anthrop
 
 
 
-## the code uses VOYAGE_API_KEY to do RAG I want to learn more about the details. 
-## What is the input of the VOYAGE service? what is the output? 
-## use this code as an example to teach me how to use VOYAGE service in details
+## the code uses VOYAGE_API_KEY to do RAG I want to learn more about the details. What is the input of the VOYAGE service? what is the output?  use this code as an example to teach me how to use VOYAGE service in details
 
 
 
