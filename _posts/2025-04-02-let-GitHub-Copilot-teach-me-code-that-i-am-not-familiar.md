@@ -375,7 +375,7 @@ So, the input to `vectordb.load_data` is a list of dictionaries with each dictio
 
 Here's a more detailed look at the relevant code snippets:
 
-```python name=guide.ipynb
+```python
 # Read the TSV file into a DataFrame
 train_df = pd.read_csv("./data/train.tsv", sep='\t')
 
@@ -393,7 +393,11 @@ vectordb = VectorDB()
 vectordb.load_data(data['train'])
 ```
 
+
+
 This ensures that the `load_data` method receives the data in the expected format for creating embeddings and storing them in the vector database.
+
+
 
 
 ## rag = vectordb.search(X,5)
