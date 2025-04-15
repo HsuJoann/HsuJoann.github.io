@@ -2,8 +2,9 @@
 tags: AI
 ---
 
-## today, I had a conversation with GPT-o1-pro, its answer is pretty good and clarified my thoughts and plan:
+today, I had a conversation with GPT-o1-pro, its answer is pretty good and clarified my thoughts and plan:
 
+## This is my question
 我想做一个web App 。 Web app 的主要功能是代替我，给客户提供 Life coach 的咨询。 我希望 客户问了问题以后，这个app 首先从我提供的知识库中找到对客户有用的相关的答案， 如果我的知识库中没有办法回答客户，那app会说，"对于你的这个问题，我暂时没有好的解答，你愿意直接联系who (my name）来讨论这个问题吗？
 我的知识库，大概会有10万字。
 请你给我一个思路，该怎样着手准备这个app。
@@ -15,7 +16,7 @@ tags: AI
 当你进行写作类任务的时候，使用亲切语气和生动的用语习惯。避免使用引号。
 
 
-
+## default mode
 ## Thinking for 25 sec
 ## Tokens: Input: 473, Reasoning: 1024, Output: 977 Cost: $0.127155
 
@@ -30,7 +31,8 @@ tags: AI
 
 不过，最根本的是，你真的想用这种自动化的方式来“替代你”？还是希望用它来“延伸你”？真正能决定系统形态的问题恐怕就在这里。期待这能给你带来思路，让你在接下来的每一步都更清楚：你在做的不仅仅是把一份知识库丢到浏览器里，而是构建一段你的思维与他人思考相遇的旅程。说到底，任何技术方案，都只是创造更好相遇方式的载体。希望你能在这个过程中一点点摸索出，想让客户获得的那份力量与温暖，究竟该如何优雅地被传递。
 
-## Thinking for 52 sec (Pro Mode)
+## Pro mode
+## Thinking for 52 sec 
 ## Tokens: Input: 473, Reasoning: 2496, Output: 1394, Cost: $0.240495
 
 
