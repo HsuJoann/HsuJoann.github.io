@@ -2,7 +2,7 @@
 tags: AI
 ---
 
-## today, I had a conversation with GPT-4o-pro, its answer is pretty good and clarified my thoughts and plan:
+## today, I had a conversation with GPT-o1-pro, its answer is pretty good and clarified my thoughts and plan:
 
 我想做一个web App 。 Web app 的主要功能是代替我，给客户提供 Life coach 的咨询。 我希望 客户问了问题以后，这个app 首先从我提供的知识库中找到对客户有用的相关的答案， 如果我的知识库中没有办法回答客户，那app会说，"对于你的这个问题，我暂时没有好的解答，你愿意直接联系who (my name）来讨论这个问题吗？
 我的知识库，大概会有10万字。
