@@ -16,7 +16,7 @@ tags: AI
 
 
 
-## Thinking for 25 
+## Thinking for 25 sec
 ## Tokens: Input: 473, Reasoning: 1024, Output: 977 Cost: $0.127155
 
 
