@@ -66,6 +66,7 @@ please give me guidance and some to do list on both directions
 ## Pro mode 回答
 ## Tokens: Input: 2043, Reasoning: 1408, Output: 1222   Cost: $0.188445
 
+
 从产品经理和开发者这两个角度去思考，其实最重要的是把目标和实现路径说清楚。以下的指引与清单，会从这两条线展开，让你既能掌握整体方向，也能在实际编码时知道下一步该做什么。
 
 作为产品经理，你首先要明确这款单向工具的使用场景和目标。你已经决定它只是一个把问题丢进去、把答案拿出来的简单应用，那么可以先从以下几件事着手：
